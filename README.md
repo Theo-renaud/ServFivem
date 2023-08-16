@@ -1,5 +1,4 @@
 # ServFivem
-====================================
 
 ## First version release
 - Run with FiveM: F8 "localhost"
